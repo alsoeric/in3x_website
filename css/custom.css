@@ -1,0 +1,8 @@
+/* Your custom css code goes here */
+.text_outline {
+    color: white;
+    text-shadow: -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}

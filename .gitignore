@@ -1,0 +1,3 @@
+# ignore pingrow backups
+_pgbackup
+.DS_Store
